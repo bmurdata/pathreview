@@ -1,6 +1,6 @@
 ## Week 7 — Issue selection
 
-**Issue link:** [\[paste link here\]](https://github.com/ascherj/pathreview/issues/57)
+**Issue link:** [Add Mock GitHub API](https://github.com/ascherj/pathreview/issues/57)
 
 **Issue title:** Add a mock GitHub API server for integration tests
 
