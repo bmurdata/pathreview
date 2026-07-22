@@ -1,6 +1,6 @@
 ## Week 7 — Issue selection
 
-**Issue link:** [Add Mock GitHub API](https://github.com/ascherj/pathreview/issues/57)
+**Issue link:** https://github.com/ascherj/pathreview/issues/57
 
 **Issue title:** Add a mock GitHub API server for integration tests
 
@@ -20,3 +20,17 @@ Success will have tests for the GitHub server work with a mock server.
 
 **Issue Fit and Selection**
 I have worked with multple interlinked systems before and can intergrate them toegeher. I have also setup mock API servers and can get pytests to run with them. I am okay with the 3-4 others working on the issue and estimate I can complete before week 9.
+
+## Week 8 — Reproduction & solution planning
+
+**Reproduction commit link:** [link to commit documenting the reproduced issue]
+
+**Reproduction summary:**
+Issue is that the tests do not account for GitHub tests locally. I verified that no such tests exist in the codebase, and plan to add intergration tests and fixtures accordingly.
+
+**PLAN.md link:** [link to PLAN.md in your fork]
+
+**Walkthrough video (recommended):** [link to your Loom video, ≤2 min — recommended, not graded]
+
+**Blockers or open questions:**
+[Anything you're still uncertain about going into Week 9, or leave blank]
