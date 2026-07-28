@@ -26,11 +26,14 @@ I have worked with multple interlinked systems before and can intergrate them to
 **Reproduction commit link:** [link to commit documenting the reproduced issue]
 
 **Reproduction summary:**
-Issue is that the tests do not account for GitHub tests locally. I verified that no such tests exist in the codebase, and plan to add intergration tests and fixtures accordingly.
+Issue is that the tests do not account for GitHub tests locally. 
+I verified that no such tests exist in the codebase, and none were found in the tests folder or subfolders.
+The agent also has tools for GitHub that are not tested.
+I plan to add intergration tests and fixtures accordingly.
 
 **PLAN.md link:** [link to PLAN.md in your fork]
 
 **Walkthrough video (recommended):** [link to your Loom video, ≤2 min — recommended, not graded]
 
 **Blockers or open questions:**
-[Anything you're still uncertain about going into Week 9, or leave blank]
+HTTP Server intergration and exactly how to replicate the calls for GitHub mock server API.
