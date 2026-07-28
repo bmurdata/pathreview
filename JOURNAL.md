@@ -23,7 +23,7 @@ I have worked with multple interlinked systems before and can intergrate them to
 
 ## Week 8 — Reproduction & solution planning
 
-**Reproduction commit link:** [link to commit documenting the reproduced issue]
+**Reproduction commit link:** https://github.com/bmurdata/pathreview/commit/290d79d1d9283261bfac60cae988131be5d3dd22
 
 **Reproduction summary:**
 Issue is that the tests do not account for GitHub tests locally. 
@@ -31,7 +31,7 @@ I verified that no such tests exist in the codebase, and none were found in the 
 The agent also has tools for GitHub that are not tested.
 I plan to add intergration tests and fixtures accordingly.
 
-**PLAN.md link:** [link to PLAN.md in your fork]
+**PLAN.md link:** https://github.com/bmurdata/pathreview/blob/test/57-add-mock-GitHub-test-API/PLAN.md
 
 **Walkthrough video (recommended):** [link to your Loom video, ≤2 min — recommended, not graded]
 
