@@ -51,3 +51,16 @@ Implement the tests and testing framework using pytest httpserver.
 
 
 ---
+### Check-in 2 (end of week)
+
+**PR link:** [link to your submitted pull request]
+
+**Branch:** [the branch name you worked on, e.g. `test/57-add-mock-GitHub-test-API`]
+
+**What you built:**
+Built a mock GitHub server API in conftest that calls the GitHub tool. The tool uses pytest HTTPServer to mock a GitHub server called by the tool in conftest and fixture_resolver. To get the responses, the fixture_resolver is called rathet than storing responses in GitHib_responses.
+**Tests added or updated:**
+To pass linter tests, tests/conftest.py and agent/tools/github_tool.py were modified. I also added a fixture_resolver to get fixtures and return a response.
+**Self-review confirmation:** [x] make check passes  [x] make test-unit passes
+
+**Draft PR feedback received from:** None
